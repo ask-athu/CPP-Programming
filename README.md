@@ -12,15 +12,6 @@
 
 Building upon the fundamentals of C, this repository focuses on writing efficient, scalable, and maintainable code while strengthening computational thinking and software engineering principles.
 
-Every program is written with a focus on:
-
-- 🏛️ Object-Oriented Programming
-- 🧩 Problem Solving
-- ⚡ Modern C++ Concepts
-- 🖥️ Qt Framework
-- 💻 Practical Implementations
-- ✨ Clean, Efficient & Maintainable Code
-
 ---
 
 ## 🗂️ Repository Organization
@@ -36,10 +27,5 @@ As I continue learning, I'll regularly expand this repository with implementatio
 **Origin-CPP** is an evolving repository that grows alongside my C++ learning journey.
 
 Its purpose is to build efficient, scalable, and reusable software through object-oriented design, modern C++ practices, and future desktop application development using Qt.
-
----
-
-> **"Object-Oriented Programming (OOP) is a thinking process."**  
-> **— Piyush Khairnar**
 
 ---
