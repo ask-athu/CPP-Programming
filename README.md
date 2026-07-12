@@ -1,29 +1,45 @@
-⚡ Origin-CPP
+# ⚡ Origin-CPP
 
-॥ नमः पार्वती पतये हर हर महादेव ॥
+> **॥ नमः पार्वती पतये हर हर महादेव ॥**
 
-From foundations to advanced problem solving.
+*From foundations to advanced problem solving.*
 
-📖 About
+---
 
-Origin-CPP is a curated collection of C++ implementations documenting my journey through object-oriented programming, QT and modern programming techniques.
+## 📖 About
 
-This repository builds upon the fundamentals of C, focusing on writing efficient, scalable, and maintainable code while strengthening computational thinking and software design principles.
+**Origin-CPP** is a curated collection of C++ implementations documenting my ongoing journey through modern C++ and object-oriented programming.
+
+Building upon the fundamentals of C, this repository focuses on writing efficient, scalable, and maintainable code while strengthening computational thinking and software engineering principles.
 
 Every program is written with a focus on:
 
-🏛️ Object-Oriented Programming
-🧩 Problem Solving
-💻 Practical Implementations
-✨ Clean, Efficient & Modern C++ Code
-🗂️ Repository Organization
+- 🏛️ Object-Oriented Programming
+- 🧩 Problem Solving
+- ⚡ Modern C++ Concepts
+- 🖥️ Qt Framework
+- 💻 Practical Implementations
+- ✨ Clean, Efficient & Maintainable Code
+
+---
+
+## 🗂️ Repository Organization
 
 This repository is organized by concepts and practice programs.
 
-As I continue learning, I'll regularly add implementations covering modern C++ features, object-oriented programming, algorithms, data structures, and programming challenges.
+As I continue learning, I'll regularly expand this repository with implementations covering modern C++ features, the Standard Template Library (STL), object-oriented programming, Qt development, and programming challenges.
 
-🎯 Goal
+---
 
-Origin-CPP is an evolving repository that strengthens my understanding of modern C++ programming and software development.
+## 🎯 Goal
 
-Its purpose is to build efficient solutions through object-oriented design, algorithms, data structures, and consistent problem-solving practice
+**Origin-CPP** is an evolving repository that grows alongside my C++ learning journey.
+
+Its purpose is to build efficient, scalable, and reusable software through object-oriented design, modern C++ practices, and future desktop application development using Qt.
+
+---
+
+> **"Object-Oriented Programming (OOP) is a thinking process."**  
+> **— Piyush Khairnar**
+
+---
